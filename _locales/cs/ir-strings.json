@@ -1,0 +1,6 @@
+{
+    "IR.IR_read|block": "hodnota z infra přijímače",
+    "IR.IR_callbackUser|block": "při zprávě z infra přijímače obsahující",
+    "IR|block": "Infra přijímač",
+    "{id:category}IR": "Infra přijímač"
+}
