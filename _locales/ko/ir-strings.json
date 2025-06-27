@@ -1,0 +1,4 @@
+{
+    "IR.IR_callbackUser|block": "IR 신호를 받았을 때",
+    "IR.IR_read|block": "IR 키 값"
+} 
