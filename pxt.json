@@ -20,6 +20,7 @@
         "_locales/ru/ir-strings.json",
         "_locales/ja/ir-strings.json",
         "_locales/cs/ir-strings.json",
+        "_locales/ko/ir-strings.json",
         "ir.ts"
     ],
     "testFiles": [
